@@ -5,6 +5,6 @@ closing the connection
 
 change1
 change new
-change2 in harsh' database
+change2 in my harsh' database
 change 3
 
